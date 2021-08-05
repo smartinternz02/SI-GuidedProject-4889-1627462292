@@ -111,11 +111,17 @@ Further Logistic regression can be applied on other data sets available for visa
 ## Bibliography
 
 https://smartinternz.com/Student/guided_project_info/4885#
+
 https://www.kaggle.com/nsharan/h-1b-visa
+
 https://www.immi-usa.com/h1b-visa/h1b-visa-benefits/
+
 https://www.javatpoint.com/logistic-regression-in-machine-learning
+
 https://iq.opengenus.org/advantages-and-disadvantages-of-logistic-regression/
+
 https://towardsdatascience.com/optimizing-hyperparameters-in-random-forest-classification-ec7741f9d3f6
+
 https://towardsdatascience.com/understanding-random-forest-58381e0602d2#:~:text=The%20random%20forest%20is%20a,that%20of%20any%20individual%20tree.
 
 ## Appendix
